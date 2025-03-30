@@ -3,8 +3,6 @@
 ## Darcy Flow
 
 
-**task: f, u to a**  
-![](figs/darcy_a.png)
 
 **task: a, u to f**  
 ![](figs/darcy_f.png)
@@ -12,27 +10,24 @@
 **task: a, f to u**  
 ![](figs/darcy_u.png)
 
-**task: u to a**  
-![](figs/darcy_u_a.png)
-
 **task: u to f**  
 ![](figs/darcy_u_f.png)
 
 ## Convection Diffusion
 
 
-**task: f, u to a**  
+**task: s, u to v**  
 ![](figs/cd_a.png)
 
-**task: a, u to f**  
+**task: v, u to s**  
 ![](figs/cd_f.png)
 
-**task: a, f to u**  
+**task: v, s to u**  
 ![](figs/cd_u.png)
 
-**task: u to a**  
+**task: u to v**  
 ![](figs/cd_u_a.png)
 
-**task: u to f**  
+**task: u to s**  
 ![](figs/cd_u_f.png)
 
