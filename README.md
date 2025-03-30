@@ -4,6 +4,7 @@
 
 **Task: u to f**  
 ![](figs/darcy_u_f.png)
+
 ![](figs/darcy_u_f_2.png)
 
 **Task: a, u to f**  
