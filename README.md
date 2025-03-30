@@ -5,7 +5,9 @@
 
 
 **Task: a, u to f**  
-****Example 1****   ![](figs/darcy_f.png)
+![](figs/darcy_f.png)
+![](figs/darcy_f.png)
+
 
 **Task: a, f to u**  
 ![](figs/darcy_u.png)
