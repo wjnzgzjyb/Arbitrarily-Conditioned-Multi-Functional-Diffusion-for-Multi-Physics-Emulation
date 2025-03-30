@@ -4,10 +4,5 @@
 
 
 **f, u to a**  
-[View Darcy Task 1 Result (PDF)](figs/darcy_a.pdf)
-
-
-**a, u to f**  
-[View Darcy Task 2 Result (PDF)](figs/darcy_f.pdf)
-
+![](figs/darcy_a.png)
 
