@@ -4,30 +4,30 @@
 
 
 
-**task: a, u to f**  
-![](figs/darcy_f.png)
+**Task: a, u to f**  
+***Example 1***   ![](figs/darcy_f.png)
 
-**task: a, f to u**  
+**Task: a, f to u**  
 ![](figs/darcy_u.png)
 
-**task: u to f**  
+**Task: u to f**  
 ![](figs/darcy_u_f.png)
 
 ## Convection Diffusion
 
 
-**task: s, u to v**  
+**Task: s, u to v**  
 ![](figs/cd_a.png)
 
-**task: v, u to s**  
+**Task: v, u to s**  
 ![](figs/cd_f.png)
 
-**task: v, s to u**  
+**Task: v, s to u**  
 ![](figs/cd_u.png)
 
-**task: u to v**  
+**Task: u to v**  
 ![](figs/cd_u_a.png)
 
-**task: u to s**  
+**Task: u to s**  
 ![](figs/cd_u_f.png)
 
