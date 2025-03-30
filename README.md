@@ -2,18 +2,19 @@
 
 ## Darcy Flow
 
-
+**Task: u to f**  
+![](figs/darcy_u_f.png)
+![](figs/darcy_u_f_2.png)
 
 **Task: a, u to f**  
 ![](figs/darcy_f.png)
-![](figs/darcy_f.png)
+![](figs/darcy_f_2.png)
 
 
 **Task: a, f to u**  
 ![](figs/darcy_u.png)
+![](figs/darcy_u_2.png)
 
-**Task: u to f**  
-![](figs/darcy_u_f.png)
 
 ## Convection Diffusion
 
